@@ -15,7 +15,7 @@
 	"require": {
 		"php": ">=8.0",
 
-		"naas/setting": "0.1.*"
+		"naas/setting": "0.1.* || @dev"
 	},
 	"require-dev": {},
 	"config": {
