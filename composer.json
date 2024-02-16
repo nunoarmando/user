@@ -1,7 +1,7 @@
 {
-	"name": "nunoarmando/user",
-	"description": "nunoarmando/user",
-	"homepage": "https://github.com/nunoarmando/user",
+	"name": "naas/user",
+	"description": "naas/user",
+	"homepage": "https://github.com/naas/user",
 	"type": "composer",
 	"license": "MIT",
 	"keywords": ["test repository"],
